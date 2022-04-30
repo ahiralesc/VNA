@@ -1,0 +1,187 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "4"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.70609266281,
+                        37.97857455526
+                    ],
+                    [
+                        23.71625675338,
+                        37.99214218480
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "10"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.72805087564,
+                        37.99384535843
+                    ],
+                    [
+                        23.71625675338,
+                        37.99214218480
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.71625675338,
+                        37.99214218480
+                    ],
+                    [
+                        23.72171384811,
+                        38.00049158609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "7"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.74008161545,
+                        38.00049158609
+                    ],
+                    [
+                        23.72805087564,
+                        37.99384535843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.72016889572,
+                        38.00928361575
+                    ],
+                    [
+                        23.72171384811,
+                        38.00049158609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "1"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.70798093796,
+                        38.01577551477
+                    ],
+                    [
+                        23.72016889572,
+                        38.00928361575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "6"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.73424512863,
+                        37.98046887812
+                    ],
+                    [
+                        23.72805087564,
+                        37.99384535843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "0"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.74282819748,
+                        38.02632362437
+                    ],
+                    [
+                        23.72016889572,
+                        38.00928361575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "5"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.72171384811,
+                        38.00049158609
+                    ],
+                    [
+                        23.72805087564,
+                        37.99384535843
+                    ]
+                ]
+            }
+        }
+    ]
+}
